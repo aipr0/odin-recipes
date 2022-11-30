@@ -1,0 +1,16 @@
+body {
+    background-color: wheat;
+}
+
+h1 {
+    color: #964B00;
+    font-size: 50px;
+    font-family: "Courier New", "Times New Roman", serif;
+    text-align: center;
+}
+
+ul {
+    font-size: 25px;
+    /*text-align: left;*/
+    list-style-position: inside;
+}
